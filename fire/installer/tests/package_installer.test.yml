@@ -1,0 +1,4 @@
+package_installer:
+  type: PackageInstaller
+  database: database
+  class_loader: class_loader
